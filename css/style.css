@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+header {
+
+    height: 75px;
+    margin: auto;
+   background-color: #19e8d7;
+   display: block;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 15px;
+}
+
+
+.left {
+    width: 35%;
+    color: "cyan";
+    float :left;
+    overflow: hidden;
+}
+.right {
+    color: "cyan";
+    float: right;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-none {
+    display: none;
+}
+#maindiv {
+     width: 100%;
+    height: 600px;
+    background-color:  #F79DEB;
+     position: absolute;
+ }
+.my-button {
+    text-align: center;
+    font-size: 26px;
+    width: 200px;
+    height: 70px;
+    background-color: #94DF96;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #175119;
+    cursor: pointer;
+}
+
+
+    /* opacity: 1*/
+

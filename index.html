@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Effective JavaScript: Frogger</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery/jQuery.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1> frogger game </h1>
+    </header>
+    <div id="maindiv" class="display-none">
+        <div id="maindiv-center" class="center-box">
+            <div class="heading">
+                <h2 class="score">
+                    your Score: <span id="Tscore"></span>
+                </h2>
+                <button id="buttonAgain" class="my-button">
+                                   Play Again
+                        </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="container">
+        <aside class="left">
+            <button id="startButton" class="my-button">Start New Game</button>
+            <h1>Timer</h1>
+            <h2 class="timer"> Remaining_time: <span id="timer"></span> </h2>
+        </aside>
+        <div id="main"></div>
+    </div>
+
+    <script src="js/resources.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/engine.js"></script>
+</body>
+
+</html>
