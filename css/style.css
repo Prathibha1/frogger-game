@@ -54,6 +54,11 @@ h3 {
     box-shadow: 5px 5px 5px #175119;
     cursor: pointer;
 }
+#content {
+    margin: 2px;
+    font-size: 3px;
+    font-color: green;
+}
 
 
     /* opacity: 1*/
