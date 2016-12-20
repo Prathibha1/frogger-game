@@ -8,9 +8,9 @@ Project #3 of Udacity's [Front End Web Developer Nanodegree](https://www.udacity
 
  **1.** Clone this repo
  
- $git clone https://github.com/Prathibha1/Prathibha1.github.io/
  
   **2.** open the webpage
+  [link](https://prathibha1.github.io/frogger-game/)
 
 ##Instructions
 
